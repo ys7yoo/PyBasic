@@ -12,6 +12,9 @@ You can (should) run python 3 by typing python3.
 ```
 python3
 ```
+In other words, you should type python3 instead of python.
+
+
 
 You can check the version of the python as follows.
 ```
