@@ -33,15 +33,18 @@ On Ubuntu 16.04.3, it will be Python 3.5.2.
 ## virtual environment 
 In pythone 3 (from 3.3), venv is the standard way for creating and using virtual environments.
 
-See here https://docs.python.org/3/library/venv.html.
+See https://docs.python.org/3/library/venv.html for more information.
 
 
 ## pip
 You can use 'pip' to install python modules.
 
-See here https://docs.python.org/3/installing/index.html?highlight=pip.
+See https://docs.python.org/3/installing/index.html?highlight=pip for more information.
 
 
 
 ## Jupyter notebook
+
+See https://github.com/ys7yoo/tutorial_IPython.
+
 
