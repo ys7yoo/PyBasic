@@ -14,6 +14,18 @@ You can (should) run python 3 by typing python3.
 python3
 ```
 
+You can check the version of the python as follows.
+```
+python --version
+```
+On Ubuntu 16.04.3, it will be Python 2.7.12.
+```
+python3 --version
+```
+On Ubuntu 16.04.3, it will be Python 3.5.2.
+
+
+
 
 
 ## virtual environment 
