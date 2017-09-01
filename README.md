@@ -8,6 +8,14 @@ Basic stuff for Python programming
 Python 2.7 has been the widely used version for a while. 
 Now, it's safe to use Python 3 (3.5 or 3.6).
 
+In our lab servers, both python 2 and 3 are installed.
+You can (should) run python 3 by typing python3.
+```
+python3
+```
+
+
+
 ## virtual environment 
 In pythone 3 (from 3.3), venv is the standard way for creating and using virtual environments.
 
