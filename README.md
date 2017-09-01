@@ -40,6 +40,21 @@ You can use 'pip' to install python modules.
 
 See https://docs.python.org/3/installing/index.html?highlight=pip for more information.
 
+It is quite tricky where the actual modules and librararies are installed. 
+
+In the virtual environment, don't worry about it and just use pip without any options.
+(This is another reason why virtual environment is useful and recommended.)
+For example, you can install latest tensorflow as follows.
+```bash
+pip3 install --upgrade tensorflow
+```
+Here, I assume that you installed pip for python3 and it's name is pip.
+You can do it by 
+```
+sudo apt install python3-pip
+```
+
+
 
 
 ## Jupyter notebook
