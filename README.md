@@ -69,7 +69,8 @@ pip3 install --user --upgrade tensorflow
 
 
 ## Jupyter notebook
-
-See https://github.com/ys7yoo/tutorial_IPython.
+Jupyter notebook (previously known as Ipython notebook) is a great tool for interactive data analysis. 
+It is also great that you can do the actual computations on a server and control it through a web-brower on your local machine. 
+See https://github.com/ys7yoo/tutorial_IPython for more information.
 
 
