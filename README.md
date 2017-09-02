@@ -1,7 +1,5 @@
-Basic stuff for Python programming
 
-
-# Key concepts for using Python
+# Key concepts and tips for setting up Python environments
 
 ## python 2 vs 3
 Python 2.7 has been the widely used version for a while. 
