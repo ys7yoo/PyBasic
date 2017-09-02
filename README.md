@@ -25,7 +25,10 @@ python3 --version
 ```
 On Ubuntu 16.04.3, it will be Python 3.5.2.
 
+## For OSX users
+You can install python 3 (and all the other open-source packages) using Mac Port. 
 
+See https://www.macports.org for more details.
 
 
 
