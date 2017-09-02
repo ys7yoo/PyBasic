@@ -1,5 +1,6 @@
 
-# Key concepts and tips for setting up Python environments
+# Setting up Python environments
+Key concepts and tips are summarized here.
 
 ## python 2 vs 3
 Python 2.7 has been the widely used version for a while. 
