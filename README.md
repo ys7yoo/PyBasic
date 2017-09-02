@@ -28,6 +28,17 @@ On Ubuntu 16.04.3, it will be Python 3.5.2.
 ## For OSX users
 You can install python 3 (and all the other open-source packages) using Mac Port. 
 
+Install Mac Port and then you can install packages as follows.
+```bash 
+sudo port install [PACKAGE-NAME]
+```
+
+You can keep it updated using the following commands.
+```bash
+sudo port -v selfupdate
+sudo port upgrade outdated
+```
+
 See https://www.macports.org for more details.
 
 
