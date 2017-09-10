@@ -7,7 +7,8 @@ Brief summary of
 
 ## python 2 vs 3
 Python 2.7 has been very popular for scientific computing for a while. 
-But now, it's safe to use Python 3 (3.5 or 3.6).
+But now, it's safe to switch to Python 3 (3.5 or 3.6).
+So, if you are new to Python, start from Python 3.
 
 In our lab servers (Ubuntu), both python 2 and 3 are installed.
 You can (should) run python 3 by typing python3 instead of python.
