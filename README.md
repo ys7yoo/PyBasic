@@ -114,7 +114,8 @@ See https://github.com/ys7yoo/tutorial_IPython for more information.
 There are many good tutorials on the web. 
 I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanations and numerous figures. 
 
-From the tutorial, let's learn and practice the following key concepts.
+From the tutorial, let's learn key concepts and practice them.
+The following links are what, I believe, you should know to get started. 
 ### basic
  - [indentation](https://www.python-course.eu/python3_blocks.php)
  - [data types and variables](https://www.python-course.eu/python3_variables.php)
