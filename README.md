@@ -106,3 +106,16 @@ It is also great that you can do the actual computations on a server and control
 See https://github.com/ys7yoo/tutorial_IPython for more information.
 
 
+
+# Python 3 Programming!
+
+There are many good tutorials on the web. 
+I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanation and many figures. 
+
+You should know the following key concepts from the tutorial.
+ - [Indentation](https://www.python-course.eu/python3_blocks.php)
+
+Key concepts from the 
+
+
+## 
