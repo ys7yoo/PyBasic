@@ -88,15 +88,15 @@ sudo apt install python3-pip
 
 If you want to install some module for syetem-wide access, then you can do it in two ways.
 1. If you have the admnistrator privilege, you can do something like this.
-```bash
-sudo pip3 install --upgrade tensorflow
-```
+  ```bash
+  sudo pip3 install --upgrade tensorflow
+  ```
 But, you will face some warning that says ....
 
 2. If you are not and admnistrator, you must install the modules under your home folder. 
-```bash
-pip3 install --user --upgrade tensorflow
-```
+  ```bash
+  pip3 install --user --upgrade tensorflow
+  ```
 
 
 
