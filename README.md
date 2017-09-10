@@ -3,7 +3,7 @@ Brief summary of
 2. key concepts and tips for Python programming
 
 
-# Setting up Python environment
+# 1. Setting up Python environment
 
 ## python 2 vs 3
 Python 2.7 has been the widely used version for a while. 
@@ -110,7 +110,7 @@ See https://github.com/ys7yoo/tutorial_IPython for more information.
 
 
 
-# Python 3 Programming!
+# 2. Python 3 Programming!
 
 There are many good tutorials on the web. 
 I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanation and many figures. 
