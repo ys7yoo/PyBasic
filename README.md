@@ -112,15 +112,16 @@ See https://github.com/ys7yoo/tutorial_IPython for more information.
 There are many good tutorials on the web. 
 I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanation and many figures. 
 
-You should know the following key concepts from the tutorial.
+From the tutorial, let's learn and practice the following key concepts.
 ### basic
  - [indentation](https://www.python-course.eu/python3_blocks.php)
-### data structure 
  - [data types and variables](https://www.python-course.eu/python3_variables.php)
  - [arithmetic and comparison operators](https://www.python-course.eu/python3_operators.php)
+### data structure 
  - [list](https://www.python-course.eu/python3_sequential_data_types.php)
- - [list manipulations](https://www.python-course.eu/python3_list_manipulation.php)
+ - [list manipulation](https://www.python-course.eu/python3_list_manipulation.php)
  - [copying](https://www.python-course.eu/python3_deep_copy.php)
- - [dictionaies](https://www.python-course.eu/python3_dictionaries.php)
+ - [dictionary](https://www.python-course.eu/python3_dictionaries.php)
+ - [set](https://www.python-course.eu/python3_sets_frozensets.php)
 ### flow control
  
