@@ -9,7 +9,7 @@ Brief summary of
 Python 2.7 has been very popular for scientific computing for a while. 
 But now, it's safe to use Python 3 (3.5 or 3.6).
 
-In our lab servers, both python 2 and 3 are installed.
+In our lab servers (Ubuntu), both python 2 and 3 are installed.
 You can (should) run python 3 by typing python3 instead of python.
 ```
 python3
