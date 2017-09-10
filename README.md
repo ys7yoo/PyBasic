@@ -113,7 +113,7 @@ See https://github.com/ys7yoo/tutorial_IPython for more information.
 # 2. Python 3 Programming!
 
 There are many good tutorials on the web. 
-I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanation and many figures. 
+I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanations and numerous figures. 
 
 From the tutorial, let's learn and practice the following key concepts.
 ### basic
