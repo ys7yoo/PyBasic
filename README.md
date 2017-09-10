@@ -113,9 +113,11 @@ There are many good tutorials on the web.
 I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanation and many figures. 
 
 You should know the following key concepts from the tutorial.
- - [Indentation](https://www.python-course.eu/python3_blocks.php)
-
-Key concepts from the 
-
-
+ - [indentation](https://www.python-course.eu/python3_blocks.php)
+ - [data types and variables](https://www.python-course.eu/python3_variables.php)
+ - [arithmetic and comparison operators](https://www.python-course.eu/python3_operators.php)
+ - [list](https://www.python-course.eu/python3_sequential_data_types.php)
+ - [list manipulations](https://www.python-course.eu/python3_list_manipulation.php)
+ 
+ 
 ## 
