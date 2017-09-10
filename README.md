@@ -124,4 +124,13 @@ From the tutorial, let's learn and practice the following key concepts.
  - [dictionary](https://www.python-course.eu/python3_dictionaries.php)
  - [set](https://www.python-course.eu/python3_sets_frozensets.php)
 ### flow control
+ - [conditional Statements](https://www.python-course.eu/python3_conditional_statements.php)
+ - [loop](https://www.python-course.eu/python3_loops.php)
+ - [for loop](https://www.python-course.eu/python3_for_loop.php)
+### function
+ - [function](https://www.python-course.eu/python3_functions.php)
+ - [parameters and arguments](https://www.python-course.eu/python3_passing_arguments.php)
+### modules
+ - [modules](https://www.python-course.eu/python3_modules_and_modular_programming.php)
+ - [packages](https://www.python-course.eu/python3_packages.php)
  
