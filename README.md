@@ -1,6 +1,9 @@
+Brief summary of 
+1. how to set up Python environment 
+2. key concepts and tips for Python programming
 
-# Setting up Python environments
-Key concepts and tips are summarized here.
+
+# Setting up Python environment
 
 ## python 2 vs 3
 Python 2.7 has been the widely used version for a while. 
