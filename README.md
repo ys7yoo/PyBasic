@@ -65,6 +65,11 @@ and activate it using
 source [PATH-TO-NEW-VENV]/bin/activate
 ```
 
+When you want to leave the current virtual environment, deactivate it.
+
+```bash
+deactivate
+```
 
 See https://docs.python.org/3/library/venv.html for more information.
 
