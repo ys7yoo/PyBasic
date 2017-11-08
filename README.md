@@ -3,7 +3,7 @@ Brief summary of
 2. key concepts and tips for Python programming
 
 
-# Setting up Python environment
+# 1. Setting up Python environment
 
 ## python 2 vs 3
 Python 2.7 has been very popular for scientific computing for a while. 
@@ -117,14 +117,14 @@ But, you will face some warning that says ....
 
 
 
-# Jupyter notebook
+## Jupyter notebook
 Jupyter notebook (previously known as Ipython notebook) is a great tool for interactive data analysis. 
 It is also great that you can do the actual computations on a server and control it through a web-brower on your local machine. 
 See https://github.com/ys7yoo/tutorial_IPython for more information.
 
 
 
-# Python 3 Programming!
+# 2. Python 3 Programming!
 
 There are many good tutorials on the web. 
 I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanations and numerous figures. 
