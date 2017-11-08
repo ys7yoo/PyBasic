@@ -81,6 +81,7 @@ See https://docs.python.org/3/library/venv.html for more information.
 ### Using `pip` to install a package in an virtual environment (**RECOMMENDED**)
 
 You're recommended to use `pip` to install packages.
+
 #### pip
 You can use 'pip' to install python modules.
 
@@ -96,12 +97,33 @@ It is quite tricky where the actual modules and librararies are installed.
 In the virtual environment, don't worry about it and just use pip without any options.
 (This is another reason why virtual environment is useful and recommended.)
 
-#### install tensorflow
+#### Example. Install tensorflow without GPU support
 
 For example, you can install latest tensorflow as follows.
 ```bash
 pip3 install --upgrade tensorflow
 ```
+
+
+#### Example. Install tensorflow with GPU support
+
+For example, you can install latest tensorflow as follows.
+```bash
+pip3 install --upgrade tensorflow-gpu
+```
+
+
+Add the following three lines to `~/.bashrc`.
+```bash
+export PATH=$PATH:/usr/local/cuda/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+export LD_INCLUDE_PATH=$LD_INCLUDE_PATH:/usr/local/cuda/include
+```
+
+Log out your account and log in again.
+
+You should be able to import tensorflow in your python.
+
 
 ### Install a package without an virtual environment (**NOT RECOMMENDED**)
 
