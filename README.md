@@ -75,14 +75,9 @@ See https://docs.python.org/3/library/venv.html for more information.
 
 
 
-## Installing packages  
+## Installing packages using `pip`in an virtual environment (**RECOMMENDED**)
 
-
-### Using `pip` to install a package in an virtual environment (**RECOMMENDED**)
-
-You're recommended to use `pip` to install packages.
-
-#### pip
+### pip
 You can use 'pip' to install python modules.
 
 Here, I assume that you installed pip for python3 and it's name is pip.
@@ -97,7 +92,7 @@ It is quite tricky where the actual modules and librararies are installed.
 In the virtual environment, don't worry about it and just use pip without any options.
 (This is another reason why virtual environment is useful and recommended.)
 
-#### Example. Install tensorflow without GPU support
+### Example. Install tensorflow **without GPU support**
 
 For example, you can install latest tensorflow as follows.
 ```bash
@@ -105,7 +100,7 @@ pip3 install --upgrade tensorflow
 ```
 
 
-#### Example. Install tensorflow with GPU support
+### Example. Install tensorflow **with GPU support**
 
 For example, you can install latest tensorflow as follows.
 ```bash
@@ -125,7 +120,7 @@ Log out your account and log in again.
 You should be able to import tensorflow in your python.
 
 
-### Install a package without an virtual environment (**NOT RECOMMENDED**)
+## Install a package without an virtual environment (**NOT RECOMMENDED**)
 
 If you want to install some module for syetem-wide access, then you could do it in two ways.
 1) If you have the admnistrator privilege, you can do something like this.
