@@ -141,7 +141,17 @@ Jupyter notebook (previously known as Ipython notebook) is a great tool for inte
 It is also great that you can do the actual computations on a server and control it through a web-brower on your local machine. 
 See https://github.com/ys7yoo/tutorial_IPython for more information.
 
+### Launch Jupyter over network 
+1. Establish a SSH tunnel between your local machine and the server.
 
+ssh -N -L localhost:8888:localhost:8888 [ID]@[SERVER ADDRESS]
+2. In a new terminal, log in to the server and launch Jupyter notebook.
+
+```bash
+ssh [ID]@[SERVER ADDRESS]
+
+jupyter notebook
+```
 
 # 2. Python 3 Programming!
 
