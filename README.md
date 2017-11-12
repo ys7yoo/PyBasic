@@ -144,7 +144,10 @@ See https://github.com/ys7yoo/tutorial_IPython for more information.
 ### Launch Jupyter over network 
 1. Establish a SSH tunnel between your local machine and the server.
 
+```bash
 ssh -N -L localhost:8888:localhost:8888 [ID]@[SERVER ADDRESS]
+```
+
 2. In a new terminal, log in to the server and launch Jupyter notebook.
 
 ```bash
