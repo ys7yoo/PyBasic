@@ -160,7 +160,7 @@ ssh [ID]@[SERVER ADDRESS]
 
 [GO TO THE FOLDER YOU'RE WORKING ON] 
 
-jupyter3 notebook
+ipython3 notebook
 ```
 
 # 2. Python 3 Programming!
