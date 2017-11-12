@@ -142,18 +142,25 @@ It is also great that you can do the actual computations on a server and control
 See https://github.com/ys7yoo/tutorial_IPython for more information.
 
 ### Launch Jupyter over network 
-1. Establish a SSH tunnel between your local machine and the server.
+
+You're going to use two terminals, one for SSL tunneling and the other for launching the Jupyter on a remote server.
+
+1. In a terminal, establish a SSH tunnel between your local machine and the remote server.
 
 ```bash
 ssh -N -L localhost:8888:localhost:8888 [ID]@[SERVER ADDRESS]
 ```
+Type your password and keep this window opened.
+
 
 2. In a new terminal, log in to the server and launch Jupyter notebook.
 
 ```bash
 ssh [ID]@[SERVER ADDRESS]
 
-jupyter notebook
+[GO TO THE FOLDER YOU'RE WORKING ON] 
+
+jupyter3 notebook
 ```
 
 # 2. Python 3 Programming!
