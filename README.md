@@ -145,7 +145,17 @@ See https://github.com/ys7yoo/tutorial_IPython for more information.
 
 You're going to use two terminals, one for SSL tunneling and the other for launching the Jupyter on a remote server.
 
-1. In a terminal, establish a SSH tunnel between your local machine and the remote server.
+1. In a terminal, log in to the server and launch Jupyter notebook.
+
+```bash
+ssh [ID]@[SERVER ADDRESS]
+
+[GO TO THE FOLDER YOU'RE WORKING ON] 
+
+ipython3 notebook --no-browser
+```
+
+2. In a new terminal, establish a SSH tunnel between your local machine and the remote server.
 
 ```bash
 ssh -N -L localhost:8888:localhost:8888 [ID]@[SERVER ADDRESS]
@@ -153,15 +163,9 @@ ssh -N -L localhost:8888:localhost:8888 [ID]@[SERVER ADDRESS]
 Type your password and keep this window opened.
 
 
-2. In a new terminal, log in to the server and launch Jupyter notebook.
+3. In a web browse and open the address provided by the notebook.
 
-```bash
-ssh [ID]@[SERVER ADDRESS]
 
-[GO TO THE FOLDER YOU'RE WORKING ON] 
-
-ipython3 notebook
-```
 
 # 2. Python 3 Programming!
 
