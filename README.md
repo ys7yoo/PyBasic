@@ -167,6 +167,17 @@ Type your password and keep this window opened.
 
 
 
+
+## Matplotlib issue on Mac OSX ([link](https://stackoverflow.com/questions/2512225/matplotlib-not-showing-up-in-mac-osx))
+
+Add the following line to `~/.matplotlib/matplotlibrc`
+```
+backend: MacOSX
+```
+
+
+
+
 # 2. Python 3 Programming!
 
 There are many good tutorials on the web. 
