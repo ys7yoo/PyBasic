@@ -1,6 +1,7 @@
 Brief summary of 
-1. how to set up Python environment 
-2. key concepts and tips for Python programming
+1. key concepts and tips for Python programming
+2. how to set up Python environment 
+
 
 # 1. Learning Python
 
