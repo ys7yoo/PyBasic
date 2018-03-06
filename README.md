@@ -178,7 +178,7 @@ backend: MacOSX
 
 
 
-# 2. Python 3 Programming!
+# 2. Python 3!
 
 There are many good tutorials on the web. 
 I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanations and numerous figures. 
