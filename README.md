@@ -177,8 +177,14 @@ backend: MacOSX
 
 
 
+# 3. Python book
 
-# 2. Python 3!
+Allen Downey's excellent book on Python. 
+http://greenteapress.com/wp/think-python-2e/
+[github](https://github.com/AllenDowney/ThinkPython2)
+
+
+# 2. More on Python 3
 
 There are many good tutorials on the web. 
 I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanations and numerous figures. 
