@@ -2,8 +2,42 @@ Brief summary of
 1. how to set up Python environment 
 2. key concepts and tips for Python programming
 
+# 1. Learning Python
 
-# 1. Setting up Python environment
+## Think Python 2nd Edition
+Allen Downey's excellent book on Python. 
+http://greenteapress.com/wp/think-python-2e/
+[github](https://github.com/AllenDowney/ThinkPython2)
+
+## More on Python 3
+
+There are many good tutorials on the web. 
+I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanations and numerous figures. 
+
+From the tutorial, let's learn key concepts and practice them.
+The following links are what, I believe, you should know to get started. 
+### basic
+ - [indentation](https://www.python-course.eu/python3_blocks.php)
+ - [data types and variables](https://www.python-course.eu/python3_variables.php)
+ - [arithmetic and comparison operators](https://www.python-course.eu/python3_operators.php)
+### data structure 
+ - [list](https://www.python-course.eu/python3_sequential_data_types.php)
+ - [list manipulation](https://www.python-course.eu/python3_list_manipulation.php)
+ - [copying](https://www.python-course.eu/python3_deep_copy.php)
+ - [dictionary](https://www.python-course.eu/python3_dictionaries.php)
+ - [set](https://www.python-course.eu/python3_sets_frozensets.php)
+### flow control
+ - [conditional Statements](https://www.python-course.eu/python3_conditional_statements.php)
+ - [loop](https://www.python-course.eu/python3_loops.php)
+ - [for loop](https://www.python-course.eu/python3_for_loop.php)
+### function
+ - [function](https://www.python-course.eu/python3_functions.php)
+ - [parameters and arguments](https://www.python-course.eu/python3_passing_arguments.php)
+### modules
+ - [modules](https://www.python-course.eu/python3_modules_and_modular_programming.php)
+ - [packages](https://www.python-course.eu/python3_packages.php)
+ 
+# 2. Setting up Python environment
 
 ## python 2 vs 3
 Python 2.7 has been very popular for scientific computing for a while. 
@@ -177,38 +211,5 @@ backend: MacOSX
 
 
 
-# 3. Python book
 
-Allen Downey's excellent book on Python. 
-http://greenteapress.com/wp/think-python-2e/
-[github](https://github.com/AllenDowney/ThinkPython2)
-
-
-# 2. More on Python 3
-
-There are many good tutorials on the web. 
-I found a tuturial in https://www.python-course.eu/python3_course.php very useful for it's simple explanations and numerous figures. 
-
-From the tutorial, let's learn key concepts and practice them.
-The following links are what, I believe, you should know to get started. 
-### basic
- - [indentation](https://www.python-course.eu/python3_blocks.php)
- - [data types and variables](https://www.python-course.eu/python3_variables.php)
- - [arithmetic and comparison operators](https://www.python-course.eu/python3_operators.php)
-### data structure 
- - [list](https://www.python-course.eu/python3_sequential_data_types.php)
- - [list manipulation](https://www.python-course.eu/python3_list_manipulation.php)
- - [copying](https://www.python-course.eu/python3_deep_copy.php)
- - [dictionary](https://www.python-course.eu/python3_dictionaries.php)
- - [set](https://www.python-course.eu/python3_sets_frozensets.php)
-### flow control
- - [conditional Statements](https://www.python-course.eu/python3_conditional_statements.php)
- - [loop](https://www.python-course.eu/python3_loops.php)
- - [for loop](https://www.python-course.eu/python3_for_loop.php)
-### function
- - [function](https://www.python-course.eu/python3_functions.php)
- - [parameters and arguments](https://www.python-course.eu/python3_passing_arguments.php)
-### modules
- - [modules](https://www.python-course.eu/python3_modules_and_modular_programming.php)
- - [packages](https://www.python-course.eu/python3_packages.php)
  
