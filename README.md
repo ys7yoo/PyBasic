@@ -6,9 +6,9 @@ Brief summary of
 # 1. Learning Python language
 
 ## Think Python 2nd Edition
-Allen Downey's excellent book on Python. 
-http://greenteapress.com/wp/think-python-2e/
-[github](https://github.com/AllenDowney/ThinkPython2)
+Allen Downey's excellent book on Python is strongly recommended.
+You can see a free pdf from [here](http://greenteapress.com/wp/think-python-2e/).
+Code is [here](https://github.com/AllenDowney/ThinkPython2)
 
 ## More on Python 3
 
