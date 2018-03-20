@@ -1,7 +1,7 @@
 Brief summary of 
 1. key concepts and tips for Python programming
 2. how to set up Python environment 
-
+3. Jupyter notebooks
 
 # 1. Learning Python language
 
