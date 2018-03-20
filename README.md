@@ -238,6 +238,8 @@ Type your password and keep this window opened.
 See [here](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh) for more information.
 
 
+# ETC.
+
 ## Matplotlib issue on Mac OSX ([link](https://stackoverflow.com/questions/2512225/matplotlib-not-showing-up-in-mac-osx))
 
 Add the following line to `~/.matplotlib/matplotlibrc`
