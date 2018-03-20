@@ -3,7 +3,7 @@ Brief summary of
 2. how to set up Python environment 
 
 
-# 1. Learning Python
+# 1. Learning Python language
 
 ## Think Python 2nd Edition
 Allen Downey's excellent book on Python. 
