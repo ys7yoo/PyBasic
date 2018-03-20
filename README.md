@@ -41,12 +41,11 @@ The following links are what, I believe, you should know to get started.
 # 2. Setting up Python environment
 
 ## python 2 vs 3
-Python 2.7 has been very popular for scientific computing for a while. 
+Python 2.7 used to be very popular for scientific computing for a long time. 
 But now, it's safe to switch to Python 3 (3.5 or 3.6).
 So, if you are new to Python, start from Python 3.
 
-In our lab servers (Ubuntu), both python 2 and 3 are installed.
-You can (should) run python 3 by typing python3 instead of python.
+If both python 2 and 3 are installed on your machine, you can (should) run python 3 by typing `python3` instead of `python`.
 ```
 python3
 ```
