@@ -198,12 +198,12 @@ pip3 install jupyter
 
 
 ### How to use it?
-You have two options to run and edit Ipython notebooks.
+You have two options to run and edit Jupyter notebooks.
 
 #### on local machine
 1. Open an Terminal
 2. Go to the folder that contains your notebooks
-3. Launch the Jupyter kernel.
+3. Launch the Jupyter kernel by typing the following command.
 ```
 jupyter notebook
 ```
@@ -239,10 +239,6 @@ Type your password and keep this window opened.
 
 
 3. In a web browse and open the address provided by the notebook.
-
-
-Another good source about Jupyter is this book [Learning Ipython for Interactive Computing and Data Visualization (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec).
-
 
 
 
