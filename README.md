@@ -172,11 +172,10 @@ But, you will face some warning that says ....
 
 ## Jupyter notebook
 Jupyter notebook (previously known as Ipython notebook) is a great tool for interactive data analysis. 
-It is also great that you can do the actual computations on a server and control it through a web-brower on your local machine. 
 See https://github.com/ys7yoo/tutorial_IPython for more information.
 
 ### Launch Jupyter over network 
-
+Jupyter is also very useful to launch the actual computations on a server and control it through a web-brower on your local machine. 
 You're going to use two terminals, one for SSL tunneling and the other for launching the Jupyter on a remote server.
 
 1. In a terminal, log in to the server and launch Jupyter notebook.
