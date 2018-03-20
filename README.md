@@ -176,51 +176,47 @@ Jupyter notebook (previously known as Ipython notebook) is a great tool for inte
 
 ### What is Jupyter?
 Jupyter is an interactive and integrated interface for scientific computing. 
-Using Jupyter, you can put code, text, plots and even equations in a single document, called *notebook*.
+Using Jupyter, you can put code, text, plots and even equations in a single document, called *notebook* (*.ipynb).
 A notebook looks like this.
 ![Example of notebook](img/notebook.png)
 
 
 
-We use IPython in the Jupyter Notebook for easier and interactive development.
+Other useful features include:
+* You can launch your notebook from (any) web browser on your local machine while real computing is performed on either your own machine or on a remote server.
+* You can run block-by-block! This is very useful for debugging.
 
-Some useful features include:
-* A notebook (*.ipynb) contains python code as well as some comments.
-* You can launch your notebook from (any) web brower on your local machine while real computing is performed on a remote server.
-* You can run block-by-block!This is very useful for debugging.
-
-For more detail information, see the official website: [https://ipython.org](https://ipython.org).
 
 Another good source is this book [Learning Ipython for Interactive Computing and Data Visualization (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec).
 
 
-# How to install?
+### How to install?
 The easest way to install Ipython is to use pip as follows.
 ```
-pip install ipython
+pip3 install jupyter
 ```
 
 
-# How to use it?
+### How to use it?
 You have two options to run and edit Ipython notebooks.
 
-### on local machine
+#### on local machine
 1. Open an Terminal
-2. Go to the folder with your notebooks
-3. Launch the server 
+2. Go to the folder that contains your notebooks
+3. Launch the Jupyter kernel.
 ```
-ipython notebook
+jupyter notebook
 ```
-4. Open (any) web browser and go to localhost:8888
+4. Open (any) web browser and go to localhost:8888 (Step 3 will usually start Step 4 automatically.)
 5. In the web browser, you can run each block by Shift+Enter.
 
-### launch remotely on a server 
-The only difference from the local-launch is that you use SSH turnelling. 
+#### launch remotely on a server 
+The only difference from the previous case is that you use SSH turnelling. 
 
 See here for detail steps. 
 [https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh)
 
-### Launch Jupyter over network 
+#### Launch Jupyter over network 
 Jupyter is also very useful to launch the actual computations on a server and control it through a web-brower on your local machine. 
 You're going to use two terminals, one for SSL tunneling and the other for launching the Jupyter on a remote server.
 
@@ -243,6 +239,9 @@ Type your password and keep this window opened.
 
 
 3. In a web browse and open the address provided by the notebook.
+
+
+Another good source about Jupyter is this book [Learning Ipython for Interactive Computing and Data Visualization (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec).
 
 
 
