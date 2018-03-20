@@ -184,7 +184,7 @@ A notebook looks like this.
 
 Other useful features include:
 * You can launch your notebook from (any) web browser on your local machine while real computing is performed on either your own machine or on a remote server.
-* You can run block-by-block! This is very useful for debugging.
+* You can run block-by-block by typing Shift+Enter! This is very useful for debugging.
 
 
 Another good source is this book [Learning Ipython for Interactive Computing and Data Visualization (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec).
