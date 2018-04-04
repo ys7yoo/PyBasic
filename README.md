@@ -82,7 +82,7 @@ You can install python 3 (and all the other open-source packages) using Mac Port
   
   Next, you can select pip for python3. 
   ```
-  port select --set pip pip36
+  sudo port select --set pip pip36
   ```
   This command will make symoblic links in `/opt/local/bin/`.
   ```
@@ -91,7 +91,7 @@ You can install python 3 (and all the other open-source packages) using Mac Port
   lrwxr-xr-x  1 root  admin  67 Mar 29 07:27 /opt/local/bin/pip-3.6 -> /opt/local/Library/Frameworks/Python.framework/Versions/3.6/bin/pip
   ```
   
-  (**Optional**) I found it useful to change the name `pip` to `pip3` not to confuse with the sytem default python 2.7. I recommend to do this. 
+  (**Optional**) I found it useful to change the name `pip` to `pip3` not to be confusde with the sytem default python 2.7. I recommend to do this. 
   ```
   sudo mv /opt/local/bin/pip /opt/local/bin/pip3
   ```
