@@ -69,7 +69,7 @@ You can install python 3 (and all the other open-source packages) using Mac Port
    https://www.macports.org/install.php
 2. Install pythone 3.
   ```bash 
-  sudo port install python3
+  sudo port install python36
   sudo port install py36-setuptools
   ```
 3. As of Sep. 2, 2017, python 3.6 is the latest. You can select it for python3 like this.
