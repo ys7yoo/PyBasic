@@ -77,7 +77,7 @@ You can install python 3 (and all the other open-source packages) using Mac Port
   sudo port select --set python3 python36
   ```
 
-Also, you can keep it updated using the following commands.
+Also, you can keep MacPort updated using the following commands.
 ```bash
 sudo port -v selfupdate
 sudo port upgrade outdated
