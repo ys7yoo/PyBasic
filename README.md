@@ -109,7 +109,7 @@ See https://www.macports.org for more details.
 
 
 ## virtual environment 
-In pythone 3 (from 3.3), `venv` is the standard way for creating and using virtual environments.
+In Python 3 (from 3.3), `venv` is the standard way for creating and using virtual environments.
 
 You can create a new virtual environment using
 ```
