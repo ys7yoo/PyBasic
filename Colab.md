@@ -5,6 +5,8 @@
 ## To open a Jupyter notebook in github 
 https://stackoverflow.com/questions/48961866/how-to-run-a-downloaded-jupyter-notebook-on-google-colaboratory
 
+## Syncing with Google Drive
+https://colab.research.google.com/notebooks/io.ipynb
 
 ## Syncing with github
 *This is a tricky part*
