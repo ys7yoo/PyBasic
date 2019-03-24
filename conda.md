@@ -36,8 +36,6 @@ conda install opencv
 
 ### For TensorFlow
 
-1. Create a separate envoronment for each TensorFlow version.
-
 For 1.3 with python 3.5, 
 ```
 conda create -n tf13 python=3.6
@@ -45,7 +43,7 @@ conda activate tf13
 conda install -c conda-forge tensorflow==1.3
 ```
 
-For 1.1, 
+For 1.1 with python 3.6 (OSX), 
 ```
 conda create -n tf11 python=3.6
 conda activate tf11
