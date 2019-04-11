@@ -1,6 +1,6 @@
-## Setting up environments with anaconda
+# Setting up environments with anaconda
 
-### For typical eploratory data analysis
+## For typical eploratory data analysis
 
 1. Create a separate envoronment callled `eda`
 ```
@@ -15,9 +15,39 @@ conda install jupyter pandas matplotlib
 ```
 
 
+## Install PyTorch using conda
+
+1. Make a virtual environment
+```
+conda create -n torch python=3.5
+```
+
+To activate this environment, 
+```
+conda activate torch
+```
+
+To deactivate, 
+```
+conda deactivate
+````
+
+2. Install PyTorch
+
+First, activate the environment,
+```
+conda activate torch
+```
+
+Install PyTorch using conda without GPU,
+```
+conda install pytorch torchvision -c pytorch
+```
+
+See [here](https://pytorch.org/get-started/locally/) for other options.
 
 
-### For OpenCV 
+## For OpenCV 
 
 1. Create a separate envoronment callled `cv`
 ```
@@ -34,7 +64,7 @@ conda install opencv
 ```
 
 
-### For TensorFlow
+## For TensorFlow
 
 For 1.3 with python 3.5, 
 ```
