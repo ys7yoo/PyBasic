@@ -47,7 +47,7 @@ conda install pytorch torchvision -c pytorch
 See [here](https://pytorch.org/get-started/locally/) for other options.
 
 
-## For OpenCV 
+## Install OpenCV 
 
 1. Create a separate envoronment callled `cv`
 ```
@@ -64,7 +64,7 @@ conda install opencv
 ```
 
 
-## For TensorFlow
+## Install TensorFlow
 
 For 1.3 with python 3.5, 
 ```
