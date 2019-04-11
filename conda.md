@@ -4,7 +4,7 @@
 
 1. Create a separate envoronment callled `eda`
 ```
-conda create -n eda python=3.6
+conda create -n eda python=3.5
 ```
 
 2. Activate basic packages 
@@ -51,7 +51,7 @@ See [here](https://pytorch.org/get-started/locally/) for other options.
 
 1. Create a separate envoronment callled `cv`
 ```
-conda create -n cv python=3.6
+conda create -n cv python=3.5
 ```
 
 2. Install OpenCV in the environment
